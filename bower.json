@@ -1,0 +1,17 @@
+{
+  "name": "webgl-2d",
+  "main": "webgl-2d.js",
+  "homepage": "https://github.com/ECMachado/webgl-2d",
+  "authors": [
+    "Emanuel Machado <emanuel.c.machado@gmail.com>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
